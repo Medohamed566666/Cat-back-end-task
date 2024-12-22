@@ -3,6 +3,12 @@
 3- task 2: "problem solving" the solution is in the pdf file "proplem solving" also I inserted the code program in the folder "problem solving >> src >> main"
 4- task 3: "sql challenge" the solution is in the pdf file "sql challenge".
 
+
+
+
+
+To Install the Task file  click "view raw"
+
  
 
 
