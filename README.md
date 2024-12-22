@@ -1,4 +1,4 @@
-Don't  forget to Open README file inserted in the Ziped file 
+Don't  forget to Open README2 file inserted 
 
 
 
