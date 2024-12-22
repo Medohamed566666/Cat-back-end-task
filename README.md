@@ -1,4 +1,4 @@
-Don't  forget to Open README2 file inserted 
+Don't  forget to Open README.txt file inserted 
 
 
 
